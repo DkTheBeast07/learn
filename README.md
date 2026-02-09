@@ -1,3 +1,3 @@
-# My Practice Project
+# Project: GitHub Master
 teammate update
 ## Update: Change made directly on GitHub.
